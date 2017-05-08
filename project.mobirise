@@ -53,25 +53,27 @@
               "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
+              "background": "#b86659"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
+              "background": "#c27d72!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
+              "background": "#c7877d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -95,6 +97,10 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_tags": [
@@ -103,9 +109,13 @@
           "_name": "menu",
           "_anchor": "menu-10",
           "_params": {
-            "bgColor": "#2969b0",
-            "fontSize": "1",
-            "fontName": {},
+            "bgColor": "#c7877d",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
@@ -132,7 +142,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_tags": [
@@ -144,7 +154,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/file_000%20(3)-2000x1500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-3-2000x1500.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -152,7 +162,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.4",
+            "overlayOpacity": "0.2",
             "overlayColor": "#000",
             "contentAlign": "center",
             "showTitle": true,
@@ -160,8 +170,23 @@
             "showButtons": true
           },
           "title": "Kristopher M. Quintero&nbsp;",
-          "text": "\"If you're going to try go all the way, otherwise dont even start.\" - Charles Bukowaki<br>",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=aPWsBpBT5MA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Life at a Glance...</a>"
+          "text": "\"If you're doing what everyone else is doing, you're doing it wrong\" &nbsp;-Casey Neistat<br>",
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"intro.html\" data-toolbar=\"-mbrBtnMove\">Introduction</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white-outline btn-white\" href=\"https://www.youtube.com/watch?v=aPWsBpBT5MA\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">My Life at a Glance...</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ffffff",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            },
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-section-lead": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          }
         },
         {
           "_styles": {
@@ -177,7 +202,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#2969b0",
+            "bgColor": "#c7877d",
             "showMeta": false
           },
           "title": "",
@@ -187,6 +212,12 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#cccccc",
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_tags": [
@@ -195,12 +226,12 @@
           "_name": "header3",
           "_anchor": "header3-1f",
           "_params": {
-            "paddingTop": "2",
-            "paddingBottom": "0",
-            "bgColor": "#b2c6e7",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgColor": "#2d343e",
             "showMeta": false
           },
-          "title": "Gallery Samples &nbsp;",
+          "title": "Gallery Samples",
           "meta": ""
         },
         {
@@ -257,14 +288,19 @@
             "spacing": "1",
             "showText": true,
             "filter": false,
-            "bgColor": "#b2c6e7",
+            "bgColor": "#2d343e",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery2-19",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_styles": {
@@ -280,7 +316,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#2969b0",
+            "bgColor": "#c7877d",
             "showMeta": false
           },
           "title": "",
@@ -291,6 +327,12 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#cccccc",
+              "text-align": "center",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_tags": [
@@ -348,7 +390,7 @@
               "size": 0
             }
           },
-          "text1": "\"If you're going to try go all the way, otherwise dont even start.\" - Charles Bukowaki",
+          "text1": "\"If you're doing what everyone else is doing, you're doing it wrong\"  -Casey Neistat",
           "media1": {
             "iconFont": {
               "active": true,
@@ -410,7 +452,21 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
+          "_styles": {
+            "H4": {
+              "color": "#c7877d"
+            },
+            "STRONG": {
+              "color": "#c7877d"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -430,7 +486,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Kristopher M. Quintero&nbsp;"
+          "text": "Copyright (c) 2017 Kristopher M. Quintero&nbsp;",
+          "_styles": {
+            "P": {
+              "color": "#c7877d"
+            }
+          }
         }
       ]
     },
@@ -2871,25 +2932,27 @@
               "color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-family": "'Lato', sans-serif"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.05rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.137rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#1f5087"
+              "background": "#b86659"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#2662a4!important"
+              "background": "#c27d72!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2969b0"
+              "background": "#c7877d"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -2913,6 +2976,10 @@
             },
             ".close-icon::before, .close-icon::after": {
               "background-color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_tags": [
@@ -2921,9 +2988,13 @@
           "_name": "menu",
           "_anchor": "menu-10",
           "_params": {
-            "bgColor": "#2969b0",
-            "fontSize": "1",
-            "fontName": {},
+            "bgColor": "#c7877d",
+            "fontSize": "1.05",
+            "fontName": {
+              "name": "Lato",
+              "url": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "css": "'Lato', sans-serif"
+            },
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
@@ -2950,7 +3021,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_tags": [
@@ -2959,7 +3030,12 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-lead": {
-              "font-size": "19px"
+              "font-size": "19px",
+              "text-align": "center"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_anchor": "header1-1n",
@@ -2967,7 +3043,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/working%20outside%20-2000x1500.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/img-1-2000x1333.jpg",
             "bgColor": "#a07e49",
             "bgColorRadio": false,
             "bgVideo": {
@@ -2975,7 +3051,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.3",
+            "overlayOpacity": "0.6",
             "overlayColor": "#000000",
             "contentAlign": "center",
             "showTitle": true,
@@ -3000,7 +3076,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#2969b0",
+            "bgColor": "#c7877d",
             "showMeta": false
           },
           "title": "",
@@ -3010,6 +3086,12 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -3020,7 +3102,7 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgColor": "#fff",
+            "bgColor": "#2d343e",
             "showMeta": true
           },
           "title": "Life Goals&nbsp;",
@@ -3036,20 +3118,26 @@
               "color": "#bcbcbc"
             },
             ".iconbox": {
-              "background-color": "#28324e",
-              "border-color": "#28324e"
+              "background-color": "#c7877d",
+              "border-color": "#c7877d"
+            },
+            "P": {
+              "color": "#cccccc"
+            },
+            "H4": {
+              "color": "#cccccc"
             }
           },
           "_name": "features7",
           "_anchor": "features7-12",
           "_params": {
-            "iconsBgColor": "#28324e",
+            "iconsBgColor": "#c7877d",
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ffffff",
+            "bgColor": "#2d343e",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -3174,7 +3262,7 @@
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "0",
-            "bgColor": "#2969b0",
+            "bgColor": "#c7877d",
             "showMeta": false
           },
           "title": "",
@@ -3183,7 +3271,9 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff"
+              "color": "#fff",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -3229,6 +3319,10 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
             }
           },
           "_tags": [
@@ -3286,7 +3380,7 @@
               "size": 0
             }
           },
-          "text1": "\"If you're going to try go all the way, otherwise dont even start.\" - Charles Bukowaki",
+          "text1": "\"If you're doing what everyone else is doing, you're doing it wrong\"  -Casey Neistat",
           "media1": {
             "iconFont": {
               "active": true,
@@ -3348,7 +3442,21 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact Me</a>",
+          "_styles": {
+            "H4": {
+              "color": "#c7877d"
+            },
+            "STRONG": {
+              "color": "#c7877d"
+            },
+            "LI": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          }
         },
         {
           "_tags": [
@@ -3368,7 +3476,12 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2017 Kristopher M. Quintero&nbsp;"
+          "text": "Copyright (c) 2017 Kristopher M. Quintero&nbsp;",
+          "_styles": {
+            "P": {
+              "color": "#c7877d"
+            }
+          }
         }
       ]
     },
