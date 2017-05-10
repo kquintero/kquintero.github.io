@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "autocad.html",
+    "currentPage": "intro.html",
     "name": "kristopher quintero portfolio ",
     "theme": {
       "name": "mobirise3",
@@ -38,7 +38,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 2
+        "order": 1
       },
       "components": [
         {
@@ -499,7 +499,7 @@
       "settings": {
         "title": "Microsoft Word ",
         "meta_descr": "Web Maker Description",
-        "order": 5
+        "order": 6
       },
       "components": [
         {
@@ -620,6 +620,13 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "60px"
+            }
+          },
           "_anchor": "msg-box5-p",
           "_params": {
             "imageSize": "38",
@@ -666,14 +673,7 @@
           },
           "title": "Microsoft Word &nbsp;",
           "text": "When it comes to making profesional documents or assignments &nbsp;such as essays for school, Microsoft Word is my go to for it all.. Microsoft Word allows me to make presentable documents fast and easy. &nbsp;&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "60px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -871,7 +871,7 @@
       "settings": {
         "title": "Mobirise",
         "meta_descr": "Web Maker Description",
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -992,6 +992,16 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "60px"
+            },
+            "P": {
+              "color": "#232323"
+            }
+          },
           "_anchor": "msg-box5-r",
           "_params": {
             "imageSize": 50,
@@ -1038,17 +1048,7 @@
           },
           "title": "Mobirise &nbsp;&nbsp;",
           "text": "This website was made using Mobirise. With its quick and simple drag and drop design, Mobirise makes website building easy.&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "60px"
-            },
-            "P": {
-              "color": "#232323"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -1246,7 +1246,7 @@
       "settings": {
         "title": "RobotC",
         "meta_descr": "Web Maker Description",
-        "order": 4
+        "order": 5
       },
       "components": [
         {
@@ -1633,7 +1633,7 @@
       "settings": {
         "title": "Adobe Photoshop ",
         "meta_descr": "Web Site Creator Description",
-        "order": 3
+        "order": 4
       },
       "components": [
         {
@@ -1838,6 +1838,11 @@
             "Theme"
           ],
           "_name": "gallery3",
+          "_styles": {
+            ".mbr-gallery-item > div > span": {
+              "color": "#ffffff"
+            }
+          },
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
@@ -2063,12 +2068,7 @@
           },
           "_anchor": "gallery3-g",
           "articleLayout": false,
-          "allItem": "All",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#ffffff"
-            }
-          }
+          "allItem": "All"
         },
         {
           "_styles": {
@@ -2266,7 +2266,7 @@
       "settings": {
         "title": "Kristopher M. Quintero ",
         "meta_descr": "Web Site Creator Description",
-        "order": 1
+        "order": 3
       },
       "components": [
         {
@@ -2700,7 +2700,7 @@
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
-        "order": 7
+        "order": 2
       },
       "components": [
         {
@@ -2953,7 +2953,7 @@
           },
           "title1": "Architect&nbsp;",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "When I was younger I remeber helping my dad build a close to exact model of our apartment and him teaching me &nbsp;the basics of the software we used. Ever since then I've had the thought in the back of my head that one day I would make a living designing houses just like I did with my dad.&nbsp;",
+          "caption1": "When I was younger I remember helping my dad build a close to exact model of our apartment and him teaching me &nbsp;the basics of the software we used. Ever since then I've had the thought in the back of my head that one day I would make a living designing houses just like I did with my dad.&nbsp;",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
@@ -3001,7 +3001,7 @@
           },
           "title4": "Navy Officer&nbsp;",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Being that I was in a Navy program (USNSCC) in my early teens I’ve witnessed firsthand what the Navy has to offer people and I am very pleased. Going to a naval academy and giving back to the country is something I see myself doing only if I am left with no other option but I wouldn’t complain. I’ve had to years of Navy teaching so adapting to a military lifestyle would be fairly simple.  ",
+          "caption4": "Being that I was in a Navy program (USNSCC) in my early teens I’ve witnessed firsthand what the Navy has to offer people and I am very pleased. Going to a naval academy and giving back to the country is something I see myself doing only if I am left with no other option but I wouldn’t complain. I’ve had two years of Navy teaching so adapting to a military lifestyle would be fairly simple.  ",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -3275,7 +3275,8 @@
     "currentproject.html": {
       "settings": {
         "title": "Kristopher M. Quintero ",
-        "meta_descr": "Web Builder Description"
+        "meta_descr": "Web Builder Description",
+        "order": 8
       },
       "components": [
         {
@@ -3412,6 +3413,12 @@
             "Theme"
           ],
           "_name": "slider3",
+          "_styles": {
+            "H2": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": "1",
@@ -3438,13 +3445,7 @@
             "showBullets": true
           },
           "_anchor": "slider3-2f",
-          "articleLayout": false,
-          "_styles": {
-            "H2": {
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_inherit": "social-buttons2",
