@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.11.1",
-    "uniqCompNum": 111,
+    "uniqCompNum": 114,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -142,7 +142,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/NNJyWSPIZtg\" target=\"_blank\">Tech Show Slides&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_tags": [
@@ -593,7 +593,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_styles": {
@@ -965,7 +965,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_styles": {
@@ -1350,7 +1350,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_styles": {
@@ -1737,7 +1737,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/NNJyWSPIZtg\" target=\"_blank\">Tech Show Slides&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_tags": [
@@ -1827,118 +1827,233 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#000000",
-            "showMeta": true
+            "showMeta": false
           },
           "title": "Here's my work&nbsp;",
-          "meta": "2016 - 2017&nbsp;<br>(Scroll down to see current project)&nbsp;"
+          "meta": "<br><br>"
         },
         {
           "_inherit": "gallery1",
           "_tags": [
             "Theme"
           ],
-          "_name": "gallery3",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "color": "#ffffff"
-            }
-          },
+          "_name": "gallery4",
           "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "images": [
               {
-                "tags": "Awesome",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/albert-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/albert-2000x2000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/clinton-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/clinton-1-2000x2000.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Responsive",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/album-cover-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/album-cover-2000x2000.jpg",
-                "caption": "Original album cover design&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/trump-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/trump-1-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Creative",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/batman-logo-2000x2000.jpg",
-                "caption": "Batman Logo drawn with pen tool&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/star-trek-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-trek-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/robot-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/robot-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/back-to-the-future-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/back-to-the-future-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/model-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/model-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/lady-and-baby-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/lady-and-baby-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/albert-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/albert-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/kris-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/kris-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/rolo-1-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/rolo-1-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/star-wars-composite-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/star-wars-composite-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/avengers-logo-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/avengers-logo-2000x2000.jpg",
-                "caption": "Avengers logo drawn with pen tool&nbsp;",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Awesome",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/clinton-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/clinton-2000x2000.jpg",
-                "caption": "Funny Clinton&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/batman-logo-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/batman-logo-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Beautiful",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/hulk-kris-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/hulk-kris-2000x2000.jpg",
-                "caption": "Hulk logo drawn with pen tool&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/flash-logo-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/flash-logo-2000x2000.jpg",
-                "caption": "Flash logo drawn with pen tool&nbsp;",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/iron-man-2000x2000-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/iron-man-2000x2000.jpg",
-                "caption": "Iron man helmet drawn with pen tool&nbsp;",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/kris-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/kris-2000x2000.jpg",
-                "caption": "Nickname&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/avengers-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/avengers-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/marvel-symbols-kris-2000x1973-800x789.jpg",
+                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-kris-2000x1973.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/album-cover-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/album-cover-2000x20002.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/inside-album-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/inside-album-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/display-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/display-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
@@ -1948,125 +2063,65 @@
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/marvel-symbols-kris-2000x1973-800x789.jpg",
-                "image": "@PROJECT_PATH@/assets/images/marvel-symbols-kris-2000x1973.jpg",
-                "caption": "Avengers logo drawn with pen tool&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/mdcps-logo-kris-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mdcps-logo-kris-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/lady-and-baby-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/lady-and-baby-2000x2000.jpg",
-                "caption": "Photo restoration (Lady)",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mpop-inside-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mpop-inside-2000x2000.jpg",
-                "caption": "MPOP showbill inside&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/mpop-outside-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mpop-outside-2000x2000.jpg",
-                "caption": "MPOP showbill outside&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mpop-v-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/mpop-v-2000x2000.jpg",
-                "caption": "MPOP Poster&nbsp;",
+                "image": "@PROJECT_PATH@/assets/images/mpop-v-2000x20003.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/robot-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/robot-2000x2000.jpg",
-                "caption": "Custom Robot&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/26-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/26-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/rolo-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/rolo-2000x2000.jpg",
-                "caption": "Rolo rapper recreation made from scratch&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/mini-mavericks-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mini-mavericks-2000x1500.jpg",
+                "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "2016 - 2017",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/star-trek-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/star-trek-2000x2000.jpg",
-                "caption": "Star Trek space edit&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/star-wars-composite-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/star-wars-composite-2000x2000.jpg",
-                "caption": "Star Wars composite",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/star-wars-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/star-wars-2000x2000.jpg",
-                "caption": "Star Wars overlay&nbsp;",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/trump-2000x2000-800x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/trump-2000x2000.jpg",
-                "caption": "Funny Trump&nbsp;",
+                "thumb": "@PROJECT_PATH@/assets/images/youth-gun-violence-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/youth-gun-violence-2000x2000.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
             "spacing": "1",
-            "showText": true,
-            "filter": false,
+            "showText": false,
+            "filter": true,
             "bgColor": "#000000",
-            "filterBgColor": true,
+            "filterBgColor": false,
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery3-g",
+          "_anchor": "gallery4-35",
           "articleLayout": false,
           "allItem": "All"
         },
@@ -2370,7 +2425,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_inherit": "header1",
@@ -2804,7 +2859,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_tags": [
@@ -3380,7 +3435,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_styles": {
