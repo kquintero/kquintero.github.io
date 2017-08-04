@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "currentproject.html",
     "name": "kristopher quintero portfolio ",
     "theme": {
       "name": "mobirise3",
@@ -142,7 +142,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-white\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"Home .html\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Kristopher Quintero&nbsp;</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/NNJyWSPIZtg\" target=\"_blank\">Tech Show Slides&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"intro.html\">Intro&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Applications&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"autocad.html\">AutoCAD</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"robotc.html\">RobotC</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"adopbephotoshop.html\">Adobe Photoshop</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"adopbephotoshop .html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Adobe Premiere Pro</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://www.youtube.com/watch?v=nrvnNalQav8\" target=\"_blank\">Imagine Dragons // Make The Cut</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/EC1iQgogRU4\" target=\"_blank\">A Thousand Million Reasons Recreaction</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/w7Cz3fnPZkc\" target=\"_blank\">Why I Bought My Skateboard&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://youtu.be/NNJyWSPIZtg\" target=\"_blank\">Tech Show Slides&nbsp;</a></div></div><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"microsoftword.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Microsoft Word&nbsp;</a><div class=\"dropdown-menu dropdown-submenu\"><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"#\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Discuss IT!</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://kquintero.github.io/documents/Discuss IT Topic 6.pdf\" target=\"_blank\">Discuss IT! 6</a></div></div></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"mobirise.html\">Mobirise&nbsp;</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"https://mobirise.com/\" data-toggle=\"dropdown-submenu\" aria-expanded=\"false\">Credentials&nbsp;</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\" aria-expanded=\"false\">Indusrty Certifications&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#contacts3-1b\" aria-expanded=\"false\">Contact&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"currentproject.html\">Current Project</a></li>"
         },
         {
           "_tags": [
@@ -437,7 +437,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">k</a>quintero@miamiartsstudio.com&nbsp;",
           "title1": "Categories",
           "text5": "<li>Adobe Photoshop</li><li>AutoCAD</li><li>Microsoft Word&nbsp;</li><li>Mobirise<br></li><li>RobotC&nbsp;</li>",
-          "text6": "<strong>Contacts</strong><br>Email: kquintero@miamiartsstudio.com&nbsp;<br>Phone: (786) 414-8448<br><br><br><strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185<br>",
+          "text6": "<strong>Contacts</strong><br>Email: kquintero@miamiartsstudio.com&nbsp;<br>Phone: (786) 675-0895<br><br><br><strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kquintero@miamiartsstudio.com",
@@ -3269,7 +3269,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">k</a>quintero@miamiartsstudio.com&nbsp;",
           "title1": "Categories",
           "text5": "<li>Adobe Photoshop</li><li>AutoCAD</li><li>Microsoft Word&nbsp;</li><li>Mobirise<br></li><li>RobotC&nbsp;</li>",
-          "text6": "<strong>Contacts</strong><br>Email: kquintero@miamiartsstudio.com&nbsp;<br>Phone: (786) 414-8448<br><br><br><strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185<br>",
+          "text6": "<strong>Contacts</strong><br>Email: kquintero@miamiartsstudio.com&nbsp;<br>Phone: (786) 675-0895<br><br><br><strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kquintero@miamiartsstudio.com",
@@ -3482,13 +3482,13 @@
             "slides": [
               {
                 "active": true,
-                "image": "@PROJECT_PATH@/assets/images/pb3-2000x1391.jpg",
+                "image": "@PROJECT_PATH@/assets/images/20170710-2000x1125.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
                 "contentAlign": "center",
                 "showTitle": true,
-                "title": "Renegade Outdoors Florida logo&nbsp;",
+                "title": "No current Projects - More to come",
                 "showText": true,
                 "text": "&nbsp;",
                 "showButtons": false,
@@ -3616,7 +3616,7 @@
           "text4": "<a href=\"mailto:support@mobirise.com\">k</a>quintero@miamiartsstudio.com&nbsp;",
           "title1": "Categories",
           "text5": "<li>Adobe Photoshop</li><li>AutoCAD</li><li>Microsoft Word&nbsp;</li><li>Mobirise<br></li><li>RobotC&nbsp;</li>",
-          "text6": "<strong>Contacts</strong><br>Email: kquintero@miamiartsstudio.com&nbsp;<br>Phone: (786) 414-8448<br><br><br><strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185<br>",
+          "text6": "<strong>Contacts</strong><br>Email: kquintero@miamiartsstudio.com&nbsp;<br>Phone: (786) 675-0895<br><br><br><strong>Address</strong><br>15015 SW 24th Street, <br>Miami, FL 33185<br>",
           "form": {
             "title": "MESSAGE",
             "action": "kquintero@miamiartsstudio.com",
