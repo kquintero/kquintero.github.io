@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "page5.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 118,
     "versionPublish": "4.3.4",
@@ -1062,7 +1062,7 @@
     "page2.html": {
       "settings": {
         "meta_descr": "Site Maker Description",
-        "title": "About Me&nbsp;",
+        "title": "Kristopher Quintero ",
         "order": 1
       },
       "components": [
@@ -1600,7 +1600,7 @@
     "page3.html": {
       "settings": {
         "meta_descr": "Web Page Creator Description",
-        "title": "Contact Me&nbsp;",
+        "title": "Kristopher Quintero ",
         "order": 7
       },
       "components": [
