@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "CERBERUS",
-    "currentPage": "Kristopher Quintero . Quintero.html",
+    "currentPage": "Contact .html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -77,7 +77,7 @@
         }
       ]
     },
-    "Kristopher Quintero .html": {
+    "Home .html": {
       "settings": {
         "title": "Home",
         "meta_descr": "",
@@ -561,7 +561,7 @@
         }
       ]
     },
-    "Kristopher Quintero.html": {
+    "Portfolio.html": {
       "settings": {
         "title": "Portfolio ",
         "meta_descr": "",
@@ -1025,7 +1025,7 @@
         }
       ]
     },
-    "Kristopher Quinter.html": {
+    "Photoshop.html": {
       "settings": {
         "title": "Photoshop ",
         "meta_descr": "",
@@ -1715,7 +1715,7 @@
         }
       ]
     },
-    "Kristopher Quinte.html": {
+    "Lightroom.html": {
       "settings": {
         "title": "Lightroom",
         "meta_descr": "",
@@ -2420,7 +2420,7 @@
             "slides__showBullets": true,
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/1-720x7206.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1-720x7202.jpg",
                 "active": false,
                 "showButtons": false,
                 "showText": false,
@@ -2526,7 +2526,7 @@
         }
       ]
     },
-    "Kristopher Quint.html": {
+    "Contact .html": {
       "settings": {
         "title": "Contact&nbsp;",
         "meta_descr": "",
