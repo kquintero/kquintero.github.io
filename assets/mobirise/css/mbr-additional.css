@@ -1372,13 +1372,6 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-qSgmEpvATV {
-  background-image: url("../../../assets/images/index-1920x1080.jpg");
-}
-.cid-qSgmEpvATV .mbr-text,
-.cid-qSgmEpvATV .mbr-section-btn {
-  text-align: center;
-}
 .cid-qSoNyEFnPi .navbar {
   padding: .5rem 0;
   background: #333333;
@@ -3710,4 +3703,11 @@ body {
 }
 .cid-qSpFNU8I3h H2 {
   color: #ffffff;
+}
+.cid-qSgmEpvATV {
+  background-image: url("../../../assets/images/index-1920x1080.jpg");
+}
+.cid-qSgmEpvATV .mbr-text,
+.cid-qSgmEpvATV .mbr-section-btn {
+  text-align: center;
 }
